@@ -69,7 +69,7 @@ interviewee_data<-interviewee_data_html %>%
 #Generating csv file
 interview_df<-data.frame(Interviewer= interviewer_data, Interviewee= interviewee_data)
 str(interview_df)
-write.csv(interview_df, file = "interview3.csv")
+write.csv(interview_df, file = "interview-transcript.csv")
 
 ###########################################
 #i.	Using this text data set, find online free libraries and code to:
