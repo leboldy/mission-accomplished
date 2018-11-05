@@ -6,4 +6,4 @@
 ## Files
 * [steve-jobs-interview-scrape.R](https://github.com/leboldy/mission-accomplished/blob/master/steve-jobs-interview-scrape.R) - Main R file
 * [interview-transcript.csv](https://github.com/leboldy/mission-accomplished/blob/master/interview-transcript.csv) - Interview transcrip scraped
-* [Screenshots](https://github.com/leboldy/mission-accomplished/tree/master/Screenshots) - see some screenshots
+* [Screenshots](https://github.com/leboldy/mission-accomplished/tree/master/Screenshots)
